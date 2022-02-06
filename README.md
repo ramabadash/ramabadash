@@ -151,11 +151,18 @@ Here are some ideas to get you started:
         <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/webRTC.png" width="48" height="48" alt="WebRTC" />
+      </a>
+      <br>WebRTC
     </td>
+      </tr>
 </table>
