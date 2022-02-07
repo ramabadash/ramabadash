@@ -75,6 +75,12 @@ Here are some ideas to get you started:
       </a>
       <br>Puppeteer
     </td>
+      <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/webpack.png" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -124,6 +130,12 @@ Here are some ideas to get you started:
         <img src="./img/jest-logo.png" width="48" height="48" alt="jest" />
       </a>
       <br>Jest
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/eslint.svg" width="48" height="48" alt="eslint" />
+      </a>
+      <br>Es-Lint
     </td>
   </tr>
 </table>
